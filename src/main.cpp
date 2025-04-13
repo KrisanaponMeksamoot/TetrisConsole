@@ -189,7 +189,7 @@ int main() {
                                 }
                                 buf_space[0][j] = 0;
                             }
-                            i--;
+                            i++;
                         }
                     }
 
